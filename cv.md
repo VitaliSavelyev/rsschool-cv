@@ -43,7 +43,7 @@ Examples of codes:
   
 Professional experience
 ---------------------------
-I have undergone courses in IT-Academy: development of Web-sites with the usage of HTML and CSS, JavaScript);
+I have undergone courses in IT-Academy: development of Web-sites with the usage of HTML and CSS, JavaScript, fd1);
 
 English 
 ---------
